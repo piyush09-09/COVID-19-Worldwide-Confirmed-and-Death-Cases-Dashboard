@@ -1,10 +1,10 @@
- 🦠 COVID-19 Worldwide Confirmed and Death Cases Dashboard (Tableau Project)
+ 🦠 COVID-19 Worldwide Confirmed and Death Cases Dashboard (Tableau Project):
 This project is a comprehensive data visualization dashboard built using Tableau to analyse the global spread of COVID-19. It showcases confirmed cases and death counts across countries and over time in an interactive and insightful format.
 
- 🧾 Project Overview
+ 🧾 Project Overview:
 The dashboard provides a detailed visualization of global COVID-19 confirmed cases and death tolls. It aims to deliver clear, actionable insights into the pandemic’s trends, helping users understand its spread, severity, and geographical impact.
 
- 🗂️ Data Sources
+ 🗂️ Data Sources:
 The analysis is based on the open-source Johns Hopkins University CSSE COVID-19 dataset. The data includes:
 - Confirmed Cases: Daily cumulative totals globally  
 - Death Cases: Daily cumulative totals globally  
@@ -29,7 +29,7 @@ The analysis is based on the open-source Johns Hopkins University CSSE COVID-19 
 3. Country Comparison: Identify countries with highest impact  
 4. Mortality Metrics: Ratio of deaths to confirmed cases over time  
 
- 🚀 Getting Started
+ 🚀 Getting Started:
 To explore or recreate the dashboard:
 1. Download and install [TableauDesktop](https://www.tableau.com/products/desktop/download)  
 2. Clone or download this repository  
